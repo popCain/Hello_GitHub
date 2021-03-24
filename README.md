@@ -1,2 +1,9 @@
-# Hello_GitHub
-create your first GitHub repository
+# Data Structure
+    C/JAVA 
+* List
+* LinkedList
+* Queue
+* Stack
+* Tree
+* Sort
+
